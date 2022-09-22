@@ -1,0 +1,24 @@
+{
+    "name": "Jok Leisrael", 
+    "short_name":  "JokLeisrael Test One", 
+    "star_url": ".", 
+    "background_color": "#6dcdb1",
+    "theme_color": "#009578", 
+    "display": "standalone",
+    "icons": 
+    [
+        {
+            "src": "img/IconBook128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "img/IconBook512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+
+
+    ]
+
+}
